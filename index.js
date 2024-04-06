@@ -4,13 +4,13 @@ let participantes = [
         nome: "Diego Fernandes",
         email: "diego@gmail.com",
         dataInscricao: new Date(2024, 2, 22, 19, 20),
-        dataCheckIn: new Date(2024, 2, 25, 22, 00)
+        dataCheckIn: new Date(2024, 2, 25, 22, 0o0)
     },
     {
         nome: "Ketty Silva",
         email: "ketty@gmail.com",
         dataInscricao: new Date(2024, 2, 25, 16, 20),
-        dataCheckIn: new Date(2024, 2, 25, 22, 00)
+        dataCheckIn: new Date(2024, 2, 25, 22, 0o0)
     },
     {
         nome: "Fulano de Tal",
